@@ -73,6 +73,9 @@ regional analysis
 constituency flip analysis
 margin competitiveness analysis
 
+Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiOTA4MDAxMjYtZGE4Mi00ZGE3LTgzZjItMWQ0NDEzNTc1MzYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 **3. SQL Analysis Workflow**
 
 Reproducible SQL-based analytical workflow including:
