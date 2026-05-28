@@ -13,14 +13,19 @@ The objective of this project is to identify and present meaningful election sto
 The analysis focuses on:
 
 Regional seat distribution shifts
+
 Constituency-level seat flips
+
 Margin of victory and competitiveness trends
 
 Rather than political commentary, the project emphasizes:
 
 data storytelling
+
 analytical clarity
+
 dashboard usability
+
 reproducibility
 
 **Key Insights**
@@ -51,7 +56,7 @@ SQL, Power BI, Microsoft PowerPoint
 
 **1. Stakeholder Presentation Deck**
 
-An 8–10 slide executive presentation designed for AtliQ Media leadership.
+A 10 slide executive presentation designed for AtliQ Media leadership.
 
 Contents include:
 
