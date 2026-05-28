@@ -1,0 +1,1 @@
+SELECT * FROM tamilnaduelectionanalysis.fact_constituency_results;

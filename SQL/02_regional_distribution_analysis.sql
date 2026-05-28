@@ -1,0 +1,1 @@
+SELECT * FROM tamilnaduelectionanalysis.margin_analysis;
